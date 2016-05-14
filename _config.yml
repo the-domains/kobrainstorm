@@ -1,0 +1,14 @@
+layout_spectrum: 0.7605183040723205
+typography_spectrum: 0.25734498514793813
+color:
+  brandStrength: 0.04000887577421963
+  lightness: 0.4248778198380023
+  saturation: 0.3399821291677654
+  rhythmicContrast: 0.9757468875031918
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: kobrainstorm
