@@ -1,7 +1,7 @@
 name: kobrainstorm
 favicon: null
-layout_spectrum: 0.7605183040723205
-typography_spectrum: 0.25734498514793813
+layout_spectrum: 1
+typography_spectrum: 0.76236
 cta:
   domain: null
   bucket: null
