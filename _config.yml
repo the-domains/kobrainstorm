@@ -1,14 +1,28 @@
+name: kobrainstorm
+favicon: null
 layout_spectrum: 0.7605183040723205
 typography_spectrum: 0.25734498514793813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.04000887577421963
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.5
   lightness: 0.4248778198380023
   saturation: 0.3399821291677654
   rhythmicContrast: 0.9757468875031918
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-name: kobrainstorm
+purpose: []
